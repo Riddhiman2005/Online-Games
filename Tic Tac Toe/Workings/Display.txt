@@ -1,0 +1,7 @@
+TIC-TAC-TOE
+If you want to play multiplayer, press 1
+If you want to play single player:
+    a) Easy mode, press 2,
+    b) Medium mode, press 3,
+    c) Hard mode, press 4,
+and anything else to exit:
