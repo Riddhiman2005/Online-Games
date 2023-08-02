@@ -1,0 +1,49 @@
+TIC-TAC-TOE
+If you want to play multiplayer, press 1
+If you want to play single player:
+    a) Easy mode, press 2,
+    b) Medium mode, press 3,
+    c) Hard mode, press 4,
+and anything else to exit:
+ 1
+______
+|123|
+|456|
+|789|
+______
+Player 1s turn
+ 2
+______
+|1X3|
+|456|
+|789|
+______
+Player 2s turn
+ 8
+______
+|1X3|
+|456|
+|7O9|
+______
+Player 1s turn
+ 1
+______
+|XX3|
+|456|
+|7O9|
+______
+Player 2s turn
+ 5
+______
+|XX3|
+|4O6|
+|7O9|
+______
+Player 1s turn
+ 3
+______
+|XXX|
+|4O6|
+|7O9|
+______
+Player 1 wins
